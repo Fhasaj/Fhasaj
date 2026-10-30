@@ -5,7 +5,7 @@
 I worked as a biomedical scientist and in NHS lab IT before moving into software, so I'm used to building for regulated, real-world operations where data and reliability matter. I've been freelancing since 2020 and hold a BSc in Computer Science (University of London).
 
 📫 **Available for freelance projects and engineering roles (UK & Ireland, remote)**
-→ [fhasaj.co.uk](https://fhasaj.co.uk) · [info@fhasaj.co.uk](mailto:info@fhasaj.co.uk) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+→ [fhasaj.co.uk](https://fhasaj.co.uk) · [info@fhasaj.co.uk](mailto:info@fhasaj.co.uk) · [LinkedIn](https://www.linkedin.com/in/fatlum-hasaj/)
 
 ---
 
