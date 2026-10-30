@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm Fatlum</h1>
-<h3 align="center">Just a guy who loves to code trying to help one byte at a time</h3>
+# Hi, I'm Fatlum 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fhasaj&label=Profile%20views&color=99c1f1&style=flat-square" alt="fhasaj" /> </p>
+**Software engineer in Oxford, UK. I build custom business systems, mobile apps and backend services for small and growing businesses.**
 
-- 🔭 I’m currently working on [Project Helios](https://app.fhasaj.co.uk)
+I worked as a biomedical scientist and in NHS lab IT before moving into software, so I'm used to building for regulated, real-world operations where data and reliability matter. I've been freelancing since 2020 and hold a BSc in Computer Science (University of London).
 
-- 🌱 I’m currently learning **GoLang,Dart (flutter)**
+📫 **Available for freelance projects and engineering roles (UK & Ireland, remote)**
+→ [fhasaj.co.uk](https://fhasaj.co.uk) · [info@fhasaj.co.uk](mailto:info@fhasaj.co.uk) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
 
-- 👨‍💻 All of my projects are available at [https://fhasaj.co.uk](https://fhasaj.co.uk)
+---
 
-- 📝 I regularly write articles on [https://fhasaj.co.uk/blog](https://fhasaj.co.uk/blog)
+## 🛠 What I build
 
-- 💬 Ask me about **react, C++, C#**
+- **Business management systems** that replace spreadsheets and paper: payroll, wages, staff and job tracking
+- **Mobile and web apps** in Flutter and Next.js, from MVP to production
+- **Backend services and APIs** in Go and C++, with PostgreSQL, Docker and self-hosted infrastructure
+- **Integrations**: bank feeds, OAuth (Google/Apple sign-in), HL7 in healthcare
 
-- 📫 How to reach me **info@fhasaj.co.uk**
+## 📂 Selected work
 
-- 📄 Know about my experiences [https://fhasaj.co.uk/CV](https://fhasaj.co.uk/CV)
+Most client work is in private repositories. Ask me for a walkthrough.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.youtube.com/@fhbyets target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fhbyets" height="30" width="40" /></a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| **Construction business management system** | Live system for a construction firm covering wages and payroll, bank imports, and automated bank-transaction matching. Migrated the firm from MySQL to PostgreSQL. | Next.js · Prisma · PostgreSQL · Python · Plaid · Coolify |
+| **[SkyPin](https://skypin.app)** | Offline-first flight tracker and travel-day manager. Built four Go microservices with self-hosted OAuth2/JWT (Google & Apple sign-in). | Flutter · Riverpod · Go · PostgreSQL · Redis · Traefik |
+| **Security company staff & HR platform** | Staff management for an SIA-approved security firm, designed for UK GDPR: incident logging with photos, and lone-worker welfare check-ins with escalation to supervisors. | Go · Flutter · PostgreSQL |
+| **Business website & app** | Website and app for a UK security company, with a light/dark design system. | Next.js · Flutter |
+| **[Project-Mercury](https://github.com/Fhasaj/Project-Mercury)** | Desktop inventory management system with a Qt GUI. | C++ · Qt · MySQL |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+## 🧰 Tech
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fhbyets "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fhbyets " /></a></p><br><br>
+**Languages:** Go · Dart · TypeScript · C++ · C# · Python · SQL
+**Frameworks:** Flutter · Next.js / React · Node.js · .NET · Qt
+**Data:** PostgreSQL · MySQL · Redis · MongoDB
+**Infra:** Docker · Traefik · Coolify · Linux · Hetzner / OVH / IONOS VPS · Git
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fhasaj&show_icons=true&theme=onedark&locale=en" alt="fhasaj" /></p>
+---
 
+💬 Need something built, or have a system that needs fixing? [Book a quick call](https://fhasaj.co.uk) and tell me what's slowing your business down.
